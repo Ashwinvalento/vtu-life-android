@@ -18,7 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/normal_view_padding"
-        android:text="Get in touch with us via Facebook or email for any further queries ,accadamic advaices and guidance."
+        android:text="Get in touch with us via Facebook or email for any further queries,academic advices and guidance."
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textColor="@color/text_muted"
         app:isItalic="true" />
@@ -61,7 +61,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/normal_view_padding"
-        android:text="Download the latest user manual for this app here. This manual will guid you to make the best use of this app"
+        android:text="Download the latest user manual for this app here. This manual will guide you to make the best use of this app"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:textColor="@color/text_muted"
         app:isItalic="true" />

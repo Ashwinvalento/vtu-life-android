@@ -39,7 +39,7 @@
         android:layout_centerInParent="true"
         android:gravity="center"
         android:padding="@dimen/double_common_padding"
-        android:text="There is nothing interesting right now.\nWe will keep you inform."
+        android:text="There is nothing interesting right now.\nWe will keep you informed."
         app:isItalic="true" />
 
 </RelativeLayout>
